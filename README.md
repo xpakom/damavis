@@ -1,7 +1,6 @@
-# damavis
-Damavis snake challenge
+# Damavis snake challenge by Francisco Munoz Gomez#
 
-# SPANISH #
+# SPANISH 
 
 Para la resolución de este reto técnico he utilizado los conocimientos de algoritmia acumulados durante la carrera y mi experiencia laboral 
 reciente en Python, que me ha aportado soltura en el en lenguaje.
@@ -20,9 +19,11 @@ El usuario tendrá varias opciones cuando ejecute el archivo:
 1. Ejecutar los tests de aceptación.
 2. Ejecutar un test personalizado.
 0. Salir del programa.
-Todos los pasos están indicados para que el usuario pueda usar la aplicación intuitivamente y no cometa un error al introducir los datos con el formato.
 
-# ENGLISH #
+Todos los pasos están indicados para que el usuario pueda usar la aplicación intuitivamente y no cometa un error al introducir los datos con el formato. El código está comentado para aclarar el funcionamiento de cada método.
+Como ejemplo de uso, he adjuntado algunas capturas de pantalla del proceso de ambas opciones.
+
+# ENGLISH
 
 To solve this technical challenge I have used my knowledge of algorithms accumulated during my studies and my recent work experience 
 in Python, which has given me fluency in the language.
@@ -41,5 +42,6 @@ The user will have several options when executing the file:
 1. Execute the acceptance tests.
 2. Run a custom test.
 0. Exit the program.
-All the steps are indicated so that the user can use the application intuitively and does not make a mistake when entering the data with the format.
 
+All the steps are indicated so that the user can use the application intuitively and does not make a mistake when entering the data with the formatting. The code is commented to clarify the operation of each method.
+As an example of use, I have attached some screenshots of the process of both options.

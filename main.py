@@ -1,9 +1,10 @@
+# DAMAVIS SNAKE CHALLENGE by Francisco Munoz Gomez
 from snake import numberOfAvailableDifferentPaths
 
 if __name__ == "__main__":
     option = -1
     while(int(option) != 0):
-        print("SNAKE CALCULATOR by Francisco Munoz Gomez\n\n")
+        print("\nSNAKE CALCULATOR by Francisco Munoz Gomez\n\n")
         print("MENU (input the option number): \n")
         print("1. Acceptance tests.\n")
         print("2. Custom test.\n")
