@@ -3,7 +3,7 @@ paths = []
 
 def checkValidData(board, snake, depth):
     correct = True
-    if len(board) != 2 or 10 <= board[0] or board[0] < 1 or 10 <= board[1] or board[1] < 1:
+    if len(board) != 2 or 10 < board[0] or board[0] < 1 or 10 < board[1] or board[1] < 1:
         print("The size of the board is out of bounds. Must be between 1 and 10.")
         correct = False
     if 3 <= len(snake) <= 7:

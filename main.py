@@ -12,11 +12,11 @@ if __name__ == "__main__":
 
         if int(option) == 1:
             print("\nTest 1:\n")
-            numberOfAvailableDifferentPaths([4, 3], [[2,2],[3,2],[3,1],[3,0],[2,0],[1,0],[0,0]], 3)
+            numberOfAvailableDifferentPaths([4, 3], [[2,2],[3,2],[3,1],[3,0],[2,0],[1,0],[0,0]],3)
             print("\nTest 2:\n")
-            numberOfAvailableDifferentPaths([2, 3], [[0,2],[0,1],[0,0],[1,0],[1,1],[1,2]], 10)
+            numberOfAvailableDifferentPaths([2, 3], [[0,2],[0,1],[0,0],[1,0],[1,1],[1,2]],10)
             print("\nTest 3:\n")
-            numberOfAvailableDifferentPaths([10, 10], [[5,5],[5,4],[4,4],[4,5]], 4)
+            numberOfAvailableDifferentPaths([10, 10], [[5,5],[5,4],[4,4],[4,5]],4)
             option = -1 
         if int(option) == 2:
             print("RESPECT THE INSTRUCTIONS, MAXIMUS AND MINIMUS FOR GETTING A CORRECT SOLUTION.")
