@@ -1,4 +1,4 @@
-# Damavis snake challenge by Francisco Munoz Gomez#
+# Damavis snake challenge by Francisco Munoz Gomez #
 
 # SPANISH 
 
